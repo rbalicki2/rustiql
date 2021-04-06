@@ -1,0 +1,13 @@
+[package]
+name = "rustiql"
+version = "0.0.1"
+authors = ["Robert Balicki <robert.balicki@gmail.com>"]
+edition = "2018"
+license = "MIT"
+homepage = "https://github.com/rbalicki2/rustiql"
+documentation = "https://github.com/rbalicki2/rustiql"
+repository = "https://github.com/rbalicki2/rustiql"
+readme = "README.md"
+description = "GraphQL in Rust"
+
+[dependencies]
